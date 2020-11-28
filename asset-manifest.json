@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/login-auth-deplyed/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/login-auth-deplyed/static/js/main.e5eb7acf.chunk.js",
-    "main.js.map": "/login-auth-deplyed/static/js/main.e5eb7acf.chunk.js.map",
-    "runtime-main.js": "/login-auth-deplyed/static/js/runtime-main.9ed3a834.js",
-    "runtime-main.js.map": "/login-auth-deplyed/static/js/runtime-main.9ed3a834.js.map",
-    "static/css/2.83342f34.chunk.css": "/login-auth-deplyed/static/css/2.83342f34.chunk.css",
-    "static/js/2.b783a4ca.chunk.js": "/login-auth-deplyed/static/js/2.b783a4ca.chunk.js",
-    "static/js/2.b783a4ca.chunk.js.map": "/login-auth-deplyed/static/js/2.b783a4ca.chunk.js.map",
-    "index.html": "/login-auth-deplyed/index.html",
-    "static/css/2.83342f34.chunk.css.map": "/login-auth-deplyed/static/css/2.83342f34.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/login-auth-deplyed/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b783a4ca.chunk.js.LICENSE.txt": "/login-auth-deplyed/static/js/2.b783a4ca.chunk.js.LICENSE.txt"
+    "main.css": "/login-auth-deployed/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/login-auth-deployed/static/js/main.e5eb7acf.chunk.js",
+    "main.js.map": "/login-auth-deployed/static/js/main.e5eb7acf.chunk.js.map",
+    "runtime-main.js": "/login-auth-deployed/static/js/runtime-main.4f9144f3.js",
+    "runtime-main.js.map": "/login-auth-deployed/static/js/runtime-main.4f9144f3.js.map",
+    "static/css/2.83342f34.chunk.css": "/login-auth-deployed/static/css/2.83342f34.chunk.css",
+    "static/js/2.b783a4ca.chunk.js": "/login-auth-deployed/static/js/2.b783a4ca.chunk.js",
+    "static/js/2.b783a4ca.chunk.js.map": "/login-auth-deployed/static/js/2.b783a4ca.chunk.js.map",
+    "index.html": "/login-auth-deployed/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/login-auth-deployed/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/login-auth-deployed/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b783a4ca.chunk.js.LICENSE.txt": "/login-auth-deployed/static/js/2.b783a4ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ed3a834.js",
+    "static/js/runtime-main.4f9144f3.js",
     "static/css/2.83342f34.chunk.css",
     "static/js/2.b783a4ca.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
